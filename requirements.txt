@@ -4,3 +4,4 @@ ta==0.10.2
 requests==2.26.0
 python-telegram-bot==20.0
 binance-connector==3.3.0
+python-binance

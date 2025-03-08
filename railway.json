@@ -3,6 +3,6 @@
       "command": "pip install -r requirements.txt"
     },
     "run": {
-      "command": "python bot.py"
+      "command": "python src/main.py"
     }
 }
